@@ -1,0 +1,85 @@
+.container{
+    margin-bottom:100px;
+}
+nav img{
+    width:50%;
+}
+.slide-bar{
+    background-color: rgb(249, 249, 250);
+    padding: 10px 50px;
+    border-radius:10px;
+}
+.carousel-indicators .active{
+    height:5px;
+    border-radius:20px;
+    background-color: rgb(248, 163, 6);
+}
+.btn-color{
+    color:#fff;
+    background-color: #000;
+    border-radius:7px;
+}
+.s-img{
+    margin-left:40px;
+}
+.product-q{
+    font-weight:700;
+    color:rgb(227, 227, 238);
+    white-space: nowrap;
+    position: absolute;
+    top: 150px;
+    left: -100px;
+    transform: rotate(270deg);
+}
+.products a{
+    text-decoration: none;
+    color: orangered;
+    font-size:18px;
+}
+.card{
+    border:none;
+    border-radius:10px;
+    box-shadow: 5px 10px 20px gray;
+}
+.cat-underline{
+    width:120px;
+    height:5px;
+    border-radius:5px;
+    margin:auto;
+    background-color: orangered;
+}
+.cat-box{
+    width:100%;
+    height:250px;
+    background-color: rgb(247, 243, 243);
+    border-radius:10px  
+}
+.cat-box img{
+    width:150px;
+}
+.border-r{
+    border-top-right-radius:50px;
+    border-bottom-left-radius:50px;
+}
+.border-r:hover{
+    background-color: rgb(227, 227, 238);
+    border-top-left-radius:50px;
+    border-bottom-right-radius:50px;
+    transition: 0.7s;
+}
+.b-round{
+    border-top-left-radius:50px;
+    border-bottom-right-radius:50px;
+}
+.b-round:hover{
+    background-color: rgb(227, 227, 238);
+    border-top-right-radius:50px;
+    border-bottom-left-radius:50px;
+    transition: 0.7s;
+}
+.cat-right-img img{
+    width:120%;
+}
+.text-color{
+    color: rgb(206, 206, 216);
+}
